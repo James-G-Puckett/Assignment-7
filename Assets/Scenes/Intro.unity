@@ -718,9 +718,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Achtung! This game will put your typing skills to the test. Words will
-    appear and it is your responsibilty to type those words in a timely manner. Failure
-    to do so will result in failure. \r\nVerstehen!"
+  m_Text: "This game will put your typing skills to the test. Words will appear and
+    it is your responsibilty to type those words in a timely manner. Failure to do
+    so will result in failure. \r\n"
 --- !u!222 &210093660
 CanvasRenderer:
   m_ObjectHideFlags: 0

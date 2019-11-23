@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class WordDisplay : MonoBehaviour {
 
@@ -58,6 +59,7 @@ public class WordDisplay : MonoBehaviour {
         if(other.gameObject.tag == "barrier")
         {
             MissedScore++;
+            //SceneManager.LoadScene("Exit");
 
         }
     }
